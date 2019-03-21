@@ -1,0 +1,340 @@
+D:\Unity Tutorial - Base\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity Tutorial - Base\Temp\bin\Debug\Boo.Lang.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\mscorlib.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\System.Core.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\System.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\System.Xml.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.Locator.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityScript.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Tutorial - Base\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\Unity Tutorial - Base\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity Tutorial - Base\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Unity Tutorial - Base\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Unity Tutorial - Base\obj\Debug\Assembly-CSharp.dll
+D:\Unity Tutorial - Base\obj\Debug\Assembly-CSharp.pdb
+H:\3denv\unity\The Bridge\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+H:\3denv\unity\The Bridge\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+H:\3denv\unity\The Bridge\obj\Debug\Assembly-CSharp.dll
+H:\3denv\unity\The Bridge\obj\Debug\Assembly-CSharp.pdb
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Assembly-CSharp.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Boo.Lang.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\mscorlib.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\System.Core.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\System.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\System.Runtime.Serialization.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\System.Xml.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\System.Xml.Linq.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.Locator.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.TextMeshPro.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEditor.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AIModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.Analytics.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ARModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AudioModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ClothModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.CoreModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.GridModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.HoloLens.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.InputModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.Timeline.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TLSModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UI.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UIModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UNETModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.VideoModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.VRModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.WindModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.XRModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityScript.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityScript.Lang.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.Cecil.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.DataContract.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\ExCSS.Unity.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Boo.Lang.Parser.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Boo.Lang.Compiler.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.IvyParser.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Boo.Lang.Useful.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Unity.CecilTools.dll
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEditor.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AIModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ARModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.AudioModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ClothModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.CoreModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.GridModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.InputModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TLSModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UIModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UNETModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.VRModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.VideoModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.WindModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.XRModule.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.UI.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.Timeline.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.HoloLens.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+H:\3denv\unity\The Bridge\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+H:\3denv\unity\The Bridge\obj\Debug\Assembly-CSharp.csproj.CopyComplete
