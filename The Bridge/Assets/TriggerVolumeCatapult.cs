@@ -11,6 +11,8 @@ public class TriggerVolumeCatapult : MonoBehaviour {
         public bool triggerToggled = false;
         public GameObject object1;
         public GameObject object2;
+        public Camera playerCam;
+        public Camera catapultCam;
     // Use this for initialization
     void Start()
         {
@@ -39,6 +41,9 @@ public class TriggerVolumeCatapult : MonoBehaviour {
                     
                     Debug.Log("Player controls catapult");
                     object1.transform.parent = object2.transform;
+
+                    playerCam.enabled = false;
+                    catapultCam.enabled = true;
                 }
             }
             if (!triggerToggled)
@@ -48,6 +53,8 @@ public class TriggerVolumeCatapult : MonoBehaviour {
                 catapultShooter.controlHandoff = false;
                 catapultAimer.controlapult = false;
                 Debug.Log("Player stops controling catapult");
+                playerCam.enabled = true;
+                catapultCam.enabled = false;
             }
         }
         

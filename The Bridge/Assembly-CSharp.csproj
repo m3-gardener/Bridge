@@ -64,6 +64,7 @@
     <Compile Include="Assets\aroundrotator.cs" />
     <Compile Include="Assets\ballFlight.cs" />
     <Compile Include="Assets\bridgeyMakeWorkyPlease.cs" />
+    <Compile Include="Assets\cameraDynamicSwitch.cs" />
     <Compile Include="Assets\cameraWorker.cs" />
     <Compile Include="Assets\CatapultAnimator.cs" />
     <Compile Include="Assets\Catapultcontrol.cs" />
